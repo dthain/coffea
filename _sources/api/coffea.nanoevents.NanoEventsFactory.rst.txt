@@ -1,0 +1,23 @@
+NanoEventsFactory
+=================
+
+.. currentmodule:: coffea.nanoevents
+
+.. autoclass:: NanoEventsFactory
+   :show-inheritance:
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~NanoEventsFactory.events
+      ~NanoEventsFactory.from_file
+      ~NanoEventsFactory.from_parquet
+      ~NanoEventsFactory.from_root
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: events
+   .. automethod:: from_file
+   .. automethod:: from_parquet
+   .. automethod:: from_root

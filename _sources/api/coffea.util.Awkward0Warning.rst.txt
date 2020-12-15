@@ -1,0 +1,6 @@
+Awkward0Warning
+===============
+
+.. currentmodule:: coffea.util
+
+.. autoexception:: Awkward0Warning

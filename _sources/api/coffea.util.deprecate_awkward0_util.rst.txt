@@ -1,0 +1,6 @@
+deprecate_awkward0_util
+=======================
+
+.. currentmodule:: coffea.util
+
+.. autofunction:: deprecate_awkward0_util
